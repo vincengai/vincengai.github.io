@@ -1,5 +1,6 @@
 {
   "name": "personal-portfolio",
+  "homepage": "http://vincengai-portfolio.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
