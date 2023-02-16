@@ -1,7 +1,6 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://vincengai.github.io/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
